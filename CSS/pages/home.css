@@ -63,3 +63,7 @@
 .column-description > a:hover {
     text-decoration: underline;
 }
+
+footer > .row {
+    border-bottom: 1px solid #fff;
+}
