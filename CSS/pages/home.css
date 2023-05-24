@@ -9,12 +9,13 @@
 /* components */
 @import "../components/button.css";
 @import "../components/clock.css";
+@import "../components/progress-bar.css"
 
 /* CUSTOM CSS */
 
 .hero {
     min-height: 100vh;
-    background-image: url(../../img/bacground\ img.png);
+    background-image: url (../img/bacground img.png);
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
